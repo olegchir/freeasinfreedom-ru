@@ -8,5 +8,5 @@
 
 # Содержание
 
-- Глава 1. [Бешеный принтер](1-ForWantOfAPrinter.md)
+- Глава 1. [Троянский принтер](1-ForWantOfAPrinter.md)
 - Приложение Б. [GNU Free Documentation License (в оригинале)](LICENSE.md)
