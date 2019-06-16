@@ -381,3 +381,12 @@ NDA означали лишь то, что моральная легитимно
 праведного гнева — основной эмоции, которая, как мы скоро увидим, продвинула
 Столлмана в карьерном плане не хуже политической идеологии или этических
 убеждений.
+
+Copyright © 2019 Oleg Chirukhin.
+Based on "Free as a Freedom 2.0" by Sam Williams and Richard M. Stallman.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3
+or any later version published by the Free Software Foundation;
+with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
